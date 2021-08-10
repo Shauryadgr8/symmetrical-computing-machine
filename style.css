@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(#e3a1e2 0%,#a9cad9 100%);
+        text-align: center;
+}
+#pic{
+    height: 150px;
+    width: 300px;
+    border-radius: 50px;
+}
